@@ -1,5 +1,10 @@
 Pyrite looks forward to working with the security community to identify vulnerabilities in the Pyrite website and our open-source projects to help ensure the security of our business, our users, and the broader ecosystem.
 
+## How to Submit
+
+> *We are currently applying for HackerOne's Community Edition, in the meantime, please submit reports directly to the corresponding project's GitHub Private Vulnerability Reporting channel. If the project does not have Private Vulnerability Reporting enabled, you can also submit your report to the Pyrite-IDE project.*
+> Please make sure you read these guidelines carefully before submitting report.
+
 ## Code of Conduct
 
 Please only test assets listed as in scope. Reports concerning issues affecting other URLs will likely be closed as out of scope.
